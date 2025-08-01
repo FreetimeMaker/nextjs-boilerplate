@@ -15,14 +15,10 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
         </ol>
-        <div class="r2">
           <h1>Go back to the Homepage</h1>
-        </div>
-        <div class="r2">
           <a href="https://freetimemaker.github.io/Freetime-Maker-Shop/">
           <img src="https://freetimemaker.github.io/Freetime-Maker-Shop/images/back.png"></img>
           </a>
-        </div>
         </main>
     </div>
   );
